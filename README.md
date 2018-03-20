@@ -29,14 +29,14 @@ This repository is for AGL Coding test purpose.
 3) Created Unit Test for validating the Sitecore item null validity.
 
 # Sitecore Items
-  Templates: 
-    /sitecore/templates/person/home
-  Layouts: 
-    /sitecore/layout/layouts/person/basicpersonlayout
-  Renderings: 
-    /sitecore/layout/rendering/person/pageblocks/2Columns
-    /sitecore/layout/rendering/person/maleownercats
-    /sitecore/layout/rendering/person/femaleownercats
-   Content:
-    /sitecore/content/Home/PetsByOwnerGender
+  1) Templates: 
+    a) /sitecore/templates/person/home
+  2) Layouts: 
+    a) /sitecore/layout/layouts/person/basicpersonlayout
+  3) Renderings: 
+    a) /sitecore/layout/rendering/person/pageblocks/2Columns
+    b) /sitecore/layout/rendering/person/maleownercats
+    c) /sitecore/layout/rendering/person/femaleownercats
+   4) Content:
+    a) /sitecore/content/Home/PetsByOwnerGender
    
