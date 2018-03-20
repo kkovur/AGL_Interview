@@ -28,4 +28,15 @@ This repository is for AGL Coding test purpose.
 2) Created Unit Tests for validating the PetsResults against the Male, Female and Pet Type.
 3) Created Unit Test for validating the Sitecore item null validity.
 
-
+# Sitecore Items
+  Templates: 
+    /sitecore/templates/person/home
+  Layouts: 
+    /sitecore/layout/layouts/person/basicpersonlayout
+  Renderings: 
+    /sitecore/layout/rendering/person/pageblocks/2Columns
+    /sitecore/layout/rendering/person/maleownercats
+    /sitecore/layout/rendering/person/femaleownercats
+   Content:
+    /sitecore/content/Home/PetsByOwnerGender
+   
