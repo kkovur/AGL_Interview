@@ -117,6 +117,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Serialization\Content\Home.yml" />
+    <Content Include="Serialization\Content\Home\AglPersons.yml" />
+    <Content Include="Serialization\Layouts\Person.yml" />
+    <Content Include="Serialization\Layouts\Person\BasicPersonLayout.yml" />
+    <Content Include="Serialization\Renderings\Person.yml" />
+    <Content Include="Serialization\Renderings\Person\FemaleOwnerCats.yml" />
+    <Content Include="Serialization\Renderings\Person\MaleOwnerCats.yml" />
+    <Content Include="Serialization\Renderings\Person\PageBlocks.yml" />
+    <Content Include="Serialization\Renderings\Person\PageBlocks\2Columns.yml" />
+    <Content Include="Serialization\Templates\Person.yml" />
+    <Content Include="Serialization\Templates\Person\Home.yml" />
+    <Content Include="Serialization\Templates\Person\Home\PageInfo.yml" />
+    <Content Include="Serialization\Templates\Person\Home\PageInfo\APIUrl.yml" />
+    <Content Include="Serialization\Templates\Person\Home\PageInfo\Description.yml" />
+    <Content Include="Serialization\Templates\Person\Home\PageInfo\Heading.yml" />
+    <Content Include="Serialization\Templates\Person\Home\PageInfo\Title.yml" />
+    <Content Include="Serialization\Templates\Person\Home\__Standard Values.yml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

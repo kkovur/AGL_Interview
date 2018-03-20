@@ -1,0 +1,18 @@
+﻿---
+ID: "b50c1ee9-66cf-4676-91fd-306a5e82f37a"
+Parent: "fb7eb044-8a90-498e-bf30-2902e2c7a045"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Person/PageBlocks
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180320T101214Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

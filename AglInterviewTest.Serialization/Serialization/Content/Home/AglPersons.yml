@@ -1,0 +1,18 @@
+﻿---
+ID: "07a6b082-d466-4450-a54c-4ef8e3aa1863"
+Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
+Template: "4ee82810-9c52-40fe-824a-4c489f777a93"
+Path: /sitecore/content/Home/AglPersons
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180320T105446Z
+    - ID: "337c3201-3834-471f-b6bf-d3905c02ac61"
+      Hint: APIUrl
+      Value: |
+        <link linktype="external" url="http://agl-developer-test.azurewebsites.net/" anchor="" target="" />
