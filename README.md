@@ -27,6 +27,7 @@ This repository is for AGL Coding test purpose.
 *	This Project is for all the Unit tests that are part of the solution.
 *	Created Unit Tests for validating the PetsResults against the Male, Female and Pet Type.
 *	Created Unit Test for validating the Sitecore item null validity.
+*	Please modify the Sitecore License file path in **App.Config** file at line#11.
 
 # Sitecore Items
 *	**Templates:**
