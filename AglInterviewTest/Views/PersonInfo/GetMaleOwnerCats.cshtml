@@ -1,0 +1,19 @@
+﻿@{
+    <h6>Male</h6>
+        if (Model != null)
+        {
+            <ul>
+                @foreach (AglInterviewTest.Models.PetsResultModel cat in Model)
+                {
+                    <li>
+                        @cat.PetName
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <h5>No Data available for display</h5>
+        }
+
+}
