@@ -118,7 +118,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Serialization\Content\Home.yml" />
-    <Content Include="Serialization\Content\Home\AglPersons.yml" />
     <Content Include="Serialization\Layouts\Person.yml" />
     <Content Include="Serialization\Layouts\Person\BasicPersonLayout.yml" />
     <Content Include="Serialization\Renderings\Person.yml" />
@@ -134,6 +133,7 @@
     <Content Include="Serialization\Templates\Person\Home\PageInfo\Heading.yml" />
     <Content Include="Serialization\Templates\Person\Home\PageInfo\Title.yml" />
     <Content Include="Serialization\Templates\Person\Home\__Standard Values.yml" />
+    <Content Include="Serialization\Content\Home\PetsByOwnerGender.yml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
