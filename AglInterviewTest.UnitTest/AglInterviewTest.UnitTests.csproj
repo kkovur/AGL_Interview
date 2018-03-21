@@ -61,11 +61,11 @@
     </Reference>
     <Reference Include="Microsoft.Extensions.DependencyInjection, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Agl.Persons\lib\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.DependencyInjection.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Agl.Persons\lib\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+      <HintPath>..\lib\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework, Version=3.10.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
       <HintPath>..\packages\NUnit.3.10.1\lib\net45\nunit.framework.dll</HintPath>
@@ -77,13 +77,13 @@
     </Reference>
     <Reference Include="Sitecore.Kernel, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Agl.Persons\lib\Sitecore.Kernel.dll</HintPath>
+      <HintPath>..\lib\Sitecore.Kernel.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Mvc">
-      <HintPath>..\..\Agl.Persons\lib\Sitecore.Mvc.dll</HintPath>
+      <HintPath>..\lib\Sitecore.Mvc.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Nexus">
-      <HintPath>..\..\Agl.Persons\lib\Sitecore.Nexus.dll</HintPath>
+      <HintPath>..\lib\Sitecore.Nexus.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ValueTuple, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
